@@ -14,8 +14,10 @@ I'm currently working at a startup based in Germany, while I finish my universit
   
 I ❤ Open Source Projects, which is why I try and do my best at contributing back wherever I can.
 
-My focus is mostly on <strong>frontend</strong> (React, Svelte, Vanilla, Vue...). I'm a fan of types (Typescript!<!-- Why are there so many libraries without types?! :( -->) and <strong>clean testable code</strong> (jest, cypress). 
+My focus is mostly on <strong>frontend</strong> (React, Svelte, Vanilla, Vue...). I'm a fan of types (Typescript!<!-- Why are there so many libraries without types?! :( -->) and <strong>clean testable code</strong> (jest, cypress, ava, testing-library). 
   
-I also have experience with <strong>backend development and OPS</strong> (RoR, Kubernetes, Gcloud, NodeJS...<!-- And Azure, but since my last login attempt I'm still waiting for my OTP Email. 2 years and counting... -->). My theoretical background is in Security and Software Engineering.
+I also have experience with <strong>backend development and OPS</strong> (RoR, Kubernetes, Gcloud, NodeJS...<!-- And Azure, but since my last login attempt I'm still waiting for my OTP Email. 2 years and counting... -->). My theoretical background is in Security and Software Engineering. 
+
+Some other languages that I use on a case-by-case basis are Rust, Python, Java. I'm hoping to tackle Dart/Flutter and React Native in the near future. 
   
 Thanks for visiting! <!-- If you've made it this far, here is a cookie for you 🍪 --> 
