@@ -2,7 +2,7 @@
   <h3 align="center">Hi there 👋</h3>
   <br />
   <a href="https://app.daily.dev/IgnusG">
-    <p><img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=0yd" width="400" alt="IgnusG's Dev Card" /></p>
+    <p><img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=0yd" width="300" alt="IgnusG's Dev Card" /></p>
   </a>
 </div>
 
