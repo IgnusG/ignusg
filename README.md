@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignusg&show_icons=true&hide_title=true&count_private=true&text_color=ffffff&bg_color=0d1217&icon_color=2a6eca&border_color=919496&border_radius=25" />
+<a href="https://github.com/IgnusG"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignusg&show_icons=true&hide_title=true&count_private=true&text_color=ffffff&bg_color=0d1217&icon_color=2a6eca&border_color=919496&border_radius=25" /></a>
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
 
 The name's Jonathan (aka IgnusG). Nice to meet you! <!-- Hello there sneaky source code viewer, enjoy the stay ;) -->
