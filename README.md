@@ -5,11 +5,12 @@
     <p>
       <!-- If you like reading dev news and find this card cool, here's a link that tells you more :) https://changelog.daily.dev/devcard-201281 -->
       <img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=0l8" width="350" alt="IgnusG's Dev Card" />
-      <!-- Just a blank png as an aligned spacer for mobile screens -->
-      <img align="left" height="20" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==" />
     </p>
   </a>
 </div>
+
+<!-- Just a blank png as an aligned spacer for mobile screens -->
+<img align="left" height="20" width="350" src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" />
 
 <a href="https://github.com/IgnusG"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignusg&show_icons=true&hide_title=true&count_private=true&text_color=ffffff&bg_color=0d1217&icon_color=2a6eca&border_color=919496&border_radius=25" width="350" /></a>
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
