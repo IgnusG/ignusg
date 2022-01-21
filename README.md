@@ -2,8 +2,12 @@
   <h3 align="center">Hi there 👋</h3>
   <br />
   <a href="https://app.daily.dev/IgnusG">
-    <p><img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=0l8" width="350" alt="IgnusG's Dev Card" /></p>
-    <!-- If you like reading dev news and find this card cool, here's a link that tells you more :) https://changelog.daily.dev/devcard-201281 -->
+    <p>
+      <!-- If you like reading dev news and find this card cool, here's a link that tells you more :) https://changelog.daily.dev/devcard-201281 -->
+      <img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=0l8" width="350" alt="IgnusG's Dev Card" />
+      <!-- Just a blank png as an aligned spacer for mobile screens -->
+      <img align="left" height="20" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==" />
+    </p>
   </a>
 </div>
 
