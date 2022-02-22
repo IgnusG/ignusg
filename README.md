@@ -10,7 +10,7 @@
 </div>
 
 <!-- Just a blank png as an aligned spacer for mobile screens -->
-<img align="left" height="20" width="350" src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" />
+<a href="#"><img align="left" height="20" width="350" src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" /></a>
 
 <a href="https://github.com/IgnusG"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ignusg&show_icons=true&hide_title=true&count_private=true&text_color=ffffff&bg_color=0d1217&icon_color=2a6eca&border_color=919496&border_radius=25" width="350" /></a>
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
