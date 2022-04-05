@@ -16,8 +16,6 @@
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
 
 I'm Jonathan (aka IgnusG). <!-- Hello there sneaky source code viewer, enjoy the stay ;) --> 
-  
-I have just finished my M.Sc. in Computer Science and I'm looking for my next challenge to tackle.
 
 I ❤ Open Source and its community, and I try to do my best at contributing back wherever I can. I pretty much owe half of what I know to experimenting and learning from OSS.
 
