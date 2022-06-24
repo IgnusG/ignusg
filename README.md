@@ -9,6 +9,9 @@
   </a>
 </div>
 
+<!-- Just a blank png as an aligned spacer for mobile screens -->
+<a href="#"><img align="left" height="20" width="10000" src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" /></a>
+
 I'm JJ (aka IgnusG). <!-- Hello there sneaky source code viewer, enjoy the stay ;) --> 
 
 I ❤ Open Source and its community, and I try to do my best at contributing back wherever I can. I pretty much owe half of what I know to experimenting and learning from OSS.
