@@ -4,7 +4,7 @@
   <a href="https://app.daily.dev/IgnusG">
     <p>
       <!-- If you like reading dev news and find this card cool, here's a link that tells you more :) https://changelog.daily.dev/devcard-201281 -->
-      <img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=wfb" width="350" alt="IgnusG's Dev Card" />
+      <img align="left" src="https://api.daily.dev/devcards/4a221d409db840ed9618499dbb540e11.png?r=wfb" width="400" alt="IgnusG's Dev Card" />
     </p>
   </a>
 </div>
